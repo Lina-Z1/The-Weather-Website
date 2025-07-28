@@ -3,14 +3,11 @@
 A responsive weather website built using **HTML**, **CSS**, and **JavaScript**. It shows real-time weather data like temperature, humidity,
 wind speed, cloud conditions, and local time. Users can also search for the weather in any city.
 
+
+<img src="/the Weather Website.gif">
+
 ## 🌐 Live Demo [🔗 View Website]
 ([THE Wather Website](https://the-weather-website444.netlify.app/))  
-
-
-## 📸 Preview
-
-
-
 
 ## ✨ Features
 - 🔍 Search for real-time weather by **city name**
@@ -31,17 +28,18 @@ wind speed, cloud conditions, and local time. Users can also search for the weat
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6)  
+- JavaScript   
 - [WeatherAPI](https://www.weatherapi.com/)
 
-## 📁 Project Structure
+## 📁 Project Structure    
+```text
 weather-app/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── images/
-├── netlify.toml
-└── netlify/
-    └── functions/
-        └── getWeather.js
+     ├──day/
+     ├──night/
+├──icons/
+
 
