@@ -4,7 +4,7 @@ A responsive weather website built using **HTML**, **CSS**, and **JavaScript**. 
 wind speed, cloud conditions, and local time. Users can also search for the weather in any city.
 
 ## 🌐 Live Demo [🔗 View Website]
-([here](https://the-weather-website444.netlify.app/))  
+([THE Wather Website](https://the-weather-website444.netlify.app/))  
 
 
 ## 📸 Preview
