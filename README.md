@@ -1,10 +1,8 @@
 #  🌦️ The Weather Website 
+<img src="/the Weather Website.gif">
 
 A responsive weather website built using **HTML**, **CSS**, and **JavaScript**. It shows real-time weather data like temperature, humidity,
 wind speed, cloud conditions, and local time by Integrating Weather API. Users can also search for the weather in any city.
-
-
-<img src="/the Weather Website.gif">
 
 ## 🌐 Live Demo [🔗 View Website]
 ([THE Wather Website](https://the-weather-website444.netlify.app/))  
