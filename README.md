@@ -1,7 +1,7 @@
 #  🌦️ The Weather Website 
 
 A responsive weather website built using **HTML**, **CSS**, and **JavaScript**. It shows real-time weather data like temperature, humidity,
-wind speed, cloud conditions, and local time. Users can also search for the weather in any city.
+wind speed, cloud conditions, and local time by Integrating Weather API. Users can also search for the weather in any city.
 
 
 <img src="/the Weather Website.gif">
